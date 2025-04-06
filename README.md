@@ -48,9 +48,8 @@ Welcome to the next evolution of student-centric education! This platform empowe
 - **Firebase** / **Supabase** (optional)
 
 ## 📦 Installation
-
+```
 1. Clone the repository:
-```bash
 git clone https://github.com/yourusername/fyugp-ai-platform.git
 cd fyugp-ai-platform
 
@@ -60,7 +59,7 @@ pip install -r requirements.txt
 
 Launch the application:
 streamlit run app.py
-
+```
 👨‍🎓 Target Users
 Students of the Four-Year Undergraduate Programme
 
@@ -80,7 +79,7 @@ Better LLM prompts ✨
 Here's how to contribute:
 
 Fork the project 🍴
-
+```
 Create your feature branch:
 git checkout -b feature/new-feature
 
@@ -90,7 +89,7 @@ git commit -am 'Add some feature'
 Push to the branch:
 git push origin feature/new-feature
 Submit a pull request 🚀
-
+```
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
